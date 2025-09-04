@@ -29,7 +29,7 @@ public class HungerStatus {
         
         while (hungry.equals("yes")){
             System.out.println("You can take another bite of "
-            + favMeal);
+            + favMeal + " " + name);
             
             System.out.println( name + " are you still hungry?");
             
